@@ -4,3 +4,4 @@ Short term goals:
 
 Long term goals:
 - Work in data science
+- apply data-driven insights to health or behavioral research :o
