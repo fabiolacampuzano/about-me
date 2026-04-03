@@ -1,3 +1,6 @@
 Short term goals:
 - gain experience in data analysis and research
 - improve programming skills in R and Python
+
+Long term goals:
+- Work in data science
